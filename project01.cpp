@@ -1,7 +1,3 @@
-Author: Muer Zhou 
-Linear Algebra Tutor 
-Video: https://youtu.be/u9NSmcR7Pjg
-
 #include <iostream>
 #include <cstdlib> // needed to use random number generator
 #include <ctime> // needed for time()
